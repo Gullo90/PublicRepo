@@ -1,2 +1,2 @@
 # PublicRepo
-# Added a new Jpyter notebbok in this public repository
+# Added a new Jupyter notebbok in this public repository
